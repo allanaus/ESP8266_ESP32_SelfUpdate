@@ -1,2 +1,4 @@
 # ESP8266_ESP32_SelfUpdate
-Small changes and updated root certificate file
+
+This fork has small changes for the ESP32 only
+Includes updated root certificate file
