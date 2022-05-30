@@ -10,8 +10,8 @@ const char * password = "YourPassword";
 String FirmwareVer = {
   "2.4"
 };
-#define URL_fw_Version "https://raw.githubusercontent.com/allanaus/ESP8266_ESP32_SelfUpdate/master/esp32_ota/bin_version.txt"
-#define URL_fw_Bin "https://raw.githubusercontent.com/allanaus/ESP8266_ESP32_SelfUpdate/master/esp32_ota/fw.bin"
+#define URL_fw_Version "https://https://raw.githubusercontent.com/allanaus/ESP8266_ESP32_SelfUpdate/master/bin_version.txt"
+#define URL_fw_Bin "https://raw.githubusercontent.com/allanaus/ESP8266_ESP32_SelfUpdate/master/fw.bin"
 
 void connect_wifi();
 void firmwareUpdate();
